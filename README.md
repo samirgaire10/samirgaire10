@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samirgaire
 - 👀 I’m interested in programming ,  opensource  , technology , games  , photo    etc
 - 🌱 I’m currently learning linux , php .
-- I know C , HTML .
+- I know C , HTML, CSS , .
 - I ❤️ opensource
 
 <!---
