@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @samirgaire  
-- 👀 I’m interested in  programming , Open source , technology , games , photos , privacy , security , Web , etc I’m currently learning linux , php .
-- 🌱 I’m currently learning linux , php etc .
--    I know C , HTML, CSS ,etc.
+- 👀 I’m interested in linux , php ,  programming ( c , python ) , Open source , technology , games , photos , privacy , security , Web , etc   .
 - ❤️ I ❤️ opensource.
 _________________________
-- ガイレサミルです。
-- 👀 プログラミング、オープンソース、 テクノロジー、ゲーム、写真、プライバシー、セキュリティ、Web などに興味があります。現在、Linux と php を学んでいます。
-- 私は現在、linux や php などを学んでいます。
-- C、HTML、CSSなどを知っています。
+- こんにちは👋 @samirgaire です。 
+- linux , php , プログラミング ( c , python ) , オープンソース , テクノロジー , ゲーム , 写真 , プライバシー , セキュリティ , Web , などに興味があります。
 - ❤️ 私は オープンソース❤️です。
