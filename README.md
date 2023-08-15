@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samirgaire  
 - 👀 I’m interested in linux , windows , android , php ,  programming ( c , python ) , Open source , technology , games , photos , privacy , security , Web , etc   .
-- I want to learn in the future java ,system development 
+- I want to learn java ,system development in the future 
 - ❤️ I ❤️ opensource.
 _________________________
 - こんにちは👋 @samirgaire です。 
