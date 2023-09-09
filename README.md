@@ -1,11 +1,22 @@
-- 👋 Hi there! I'm @samirgaire , a tech enthusiast with a passion for open-source technology and programming           languages like Python and Java.
-- 👀 I’m interested in open-source technology, programming (C, Python), web development (Linux , Html CSS , 
-     PHP), and privacy/security (Android, games, photos).
-- I aim to learn Java and system development in the future.
-- ❤️ I ❤️ opensource.
-_________________________
-- こんにちは！オープンソース技術とPythonやJavaのようなプログラミング言語に情熱を持つ技術愛好家の@samirgaireです。
-- オープンソース技術、プログラミング（C、Python）、ウェブ開発（Linux、Html CSS 、 
-     PHP）、プライバシー/セキュリティ（Android、ゲーム、写真）に興味があります。
-- 将来的にはJavaやシステム開発の習得を目指しています。
-- ❤️ I ❤️ opensource.
+<h1 align="center">Hi 👋, I'm samirgaire</h1>
+
+- 👨‍💻 All of my projects are available at [https://samirgaire10.github.io/Portfolio/](https://samirgaire10.github.io/Portfolio/)
+- A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
