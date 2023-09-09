@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm samirgaire</h1>
+- A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👨‍💻 All of my projects are available at [https://samirgaire10.github.io/Portfolio/](https://samirgaire10.github.io/Portfolio/)
-- A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
