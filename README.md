@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👨‍💻 All of my projects are available at [https://samirgaire10.github.io/Portfolio/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio]([Portfolio](https://samirgaire10.github.io/Portfolio/))
 
 
 
