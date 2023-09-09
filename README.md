@@ -1,6 +1,6 @@
 <h1 align="center">
-  
-[![Typing SVG](https://github.com/samirgaire10/Portfolio/?lines=Hi+👋,+I'm+samir+gaire;Hi+👋,+I'm+ガイレ+サミル;Hi+👋,+I'm+सामिर‌+गैरे;)](https://git.io/typing-svg)
+
+[![samir gaire](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+samir+gaire;Hi+👋,+I'm+ガイレ+サミル;Hi+👋,+I'm+सामिर‌+गैरे;)](https://git.io/typing-svg)
 </h1>
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
 
