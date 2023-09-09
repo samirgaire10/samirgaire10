@@ -4,7 +4,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://samirgaire10.github.io/Portfolio/)
+- 👨‍💻 My Portfolio is available at [Portfolio](https://samirgaire10.github.io/Portfolio/)
+- 👨‍💻 My projects  Library are available at [Library](https://github.com/samirgaire10/Library)
+- 👨‍💻 My Highschool projects are available at [HighSchool projects](https://github.com/samirgaire10/High-School-Web-Projects)
 
 
 
