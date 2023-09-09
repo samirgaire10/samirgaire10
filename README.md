@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm samirgaire</h1>
-- A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .
+<center>A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10)](https://github.com/anuraghazra/github-readme-stats)
 
