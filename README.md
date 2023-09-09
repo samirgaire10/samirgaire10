@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi+👋; Hi+👋+,+I'm+samirgaire; Hi+👋+,+I'm+samirgaire+Nice+To+Meet+U)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi👋; Hi👋,+I'm+samirgaire; Hi👋,+I'm+samirgaire+Nice+To+Meet+U)](https://git.io/typing-svg)
 
 
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
