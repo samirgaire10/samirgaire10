@@ -4,7 +4,7 @@
 </h1>
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10&show_icons=true&theme=tokyonight)](https://github.com/samirgaire10)
 
 
 ## 🚀 About Me
