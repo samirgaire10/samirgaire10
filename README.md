@@ -1,5 +1,5 @@
 <h1 align="center">
-
+<!-- this is an animation --> 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+samir+gaire;Hi+👋,+私は,+ガイレ+サミル;Hi+👋,+म+समिर‌+गैरे+हो;)](https://samirgaire10.github.io/Portfolio/)
 </h1>
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
