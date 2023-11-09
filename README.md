@@ -1,8 +1,8 @@
 <h1 align="center">
 <!-- this is an animation --> 
-<center>
   Hi+👋,
-    
+ <center>
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+samir+gaire;+私は,+ガイレ+サミル;म+समिर‌+गैरे+हो;)](https://samirgaire10.github.io/Portfolio/)
 </h1>
 
