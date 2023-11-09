@@ -2,8 +2,10 @@
 <!-- this is an animation --> 
 Hi+👋,
   <center>
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+samir+gaire;+私は,+ガイレ+サミル;म+समिर‌+गैरे+हो;)](https://samirgaire10.github.io/Portfolio/)
 </h1>
+
     </center>
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
 
