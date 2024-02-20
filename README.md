@@ -18,6 +18,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirgaire10&show_icons=true&theme=tokyonight&layout=pie)](https://github.com/samirgaire10)
 
 
+
+
+
+
+
 ## 🚀 About Me
 
 - 👨‍💻 My Github is available at [Github](https://github.com/samirgaire10)
@@ -32,6 +37,21 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samirgaire10.github.io/Portfolio/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samirgaire10_)
+
+
+
+
+
+##  Other Tools  
+
+- Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
+- Chat Gpt  [Github](https://github.com/dark-eye/com.darkeye.chatGPT)
+- perplexity  [Github](https://github.com/samirgaire10/com.samirgaire10.perplexity)
+- Google  [Github](https://github.com/samirgaire10/com.samirgaire10.google)
+- Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
+- Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
+
+
 
 
 <h3 align="left">🔗 Languages and Tools:</h3>
