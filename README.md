@@ -42,7 +42,7 @@
 
 
 
-##  Other Tools  
+##  Other Tools 
 
 - Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
 - Chat Gpt  [Github](https://github.com/dark-eye/com.darkeye.chatGPT)
@@ -50,6 +50,7 @@
 - Google  [Github](https://github.com/samirgaire10/com.samirgaire10.google)
 - Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
 - Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
+- twitter  [Github](https://github.com/samirgaire10/com.samirgaire10.twitter.git)
 
 
 
