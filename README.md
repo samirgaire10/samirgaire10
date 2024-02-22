@@ -38,7 +38,7 @@
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samirgaire10_)
 
-[![Pling](https://www.pling.com/)](https://www.pling.com/u/samirgaire10/products)
+[![Pling](https://www.pling.com/stores/media/store_pling/pling-logo.png)](https://www.pling.com/u/samirgaire10/products)
 
 
 
