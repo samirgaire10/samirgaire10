@@ -44,7 +44,20 @@
 
 
 
-##  Other Tools 
+##  Other Tools
+
+## For plasma 6
+
+- Chat Gpt [Github](https://github.com/samirgaire10/com.samirgaire10.chatgpt-plasma6.git)
+- Twitter [Github](https://github.com/samirgaire10/com.samirgaire10.Twitter-plasma6.git)
+- Brave search [Github](https://github.com/samirgaire10/com.samirgaire10.Brave-plasma6.git)
+- Google Gemini [Github](https://github.com/samirgaire10/com.samirgaire10.google_gemini-plasma6.git)
+- Deepl Translater [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl-plasma6.git)
+- Ollama Gpt [Github](https://github.com/samirgaire10/com.samirgaire10.Ollama-plasma6.git)
+- perplexityAi [Github](https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git)
+
+
+## For plasma 5
 
 - Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
 - Chat Gpt  [Github](https://github.com/dark-eye/com.darkeye.chatGPT)
@@ -53,7 +66,6 @@
 - Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
 - Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
 - twitter  [Github](https://github.com/samirgaire10/com.samirgaire10.twitter.git)
-
 
 
 
