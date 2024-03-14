@@ -7,8 +7,11 @@
 </h1>
 
 </center>
-<p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
 
+
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+tech+enthusiast+with+a+passion+for+open+source+technology+and+programming+languages+like+Python+and+C+.;オープンソース・テクノロジーとPythonやC言語などのプログラミング言語に情熱を持つ技術愛好家。)](https://samirgaire10.github.io/Portfolio/)
+</h1>
 
 
 ##
