@@ -11,14 +11,8 @@
 
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
 
+
 ##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10&show_icons=true&theme=tokyonight)](https://github.com/samirgaire10)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirgaire10&show_icons=true&theme=tokyonight&layout=pie)](https://github.com/samirgaire10)
-
-
-
 
 
 
@@ -66,6 +60,19 @@
 - Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
 - Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
 - twitter  [Github](https://github.com/samirgaire10/com.samirgaire10.twitter.git)
+
+
+
+
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10&show_icons=true&theme=tokyonight)](https://github.com/samirgaire10)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirgaire10&show_icons=true&theme=tokyonight&layout=pie)](https://github.com/samirgaire10)
+
+
+
 
 
 
