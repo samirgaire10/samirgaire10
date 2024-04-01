@@ -53,6 +53,8 @@
 - Deepl Translater [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl-plasma6.git)
 - Ollama Gpt [Github](https://github.com/samirgaire10/com.samirgaire10.Ollama-plasma6.git)
 - perplexityAi [Github](https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git)
+- Blackbox AI  [Github](https://github.com/samirgaire10/blackbox.AI.git)
+
 
 
 ## For plasma 5
