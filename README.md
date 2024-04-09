@@ -9,7 +9,7 @@
 </center>
 
 
-<p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
+<p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python ,C ,Html , css , js , linux , opensource , privacy ETC.</p>
 
 
 ##
