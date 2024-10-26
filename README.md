@@ -81,7 +81,10 @@
 </p>
 
 ---
-## 🔗 Languages and Tools
+
+<center>
+  
+  ## 🔗 Languages and Tools
 
 <p align="left"> 
   <!-- C -->
@@ -139,4 +142,7 @@
 </a>
 
 </p>
+
+</center>
+
 
