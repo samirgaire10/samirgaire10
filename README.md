@@ -1,88 +1,109 @@
 <h1 align="center">
-<!-- this is an animation --> 
- <b> Hi 👋, </b>
- <center>
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+samir+gaire;+私は,+ガイレ+サミル;म+समिर‌+गैरे+हो;)](https://samirgaire10.github.io/Portfolio/)
+  <b>Hi 👋</b>
+  <br>
+  <a href="https://samirgaire10.github.io/Portfolio/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Samir+Gaire;+私は,+ガイレ+サミル;म+समिर‌+गैरे+हो;" alt="Typing SVG">
+  </a>
 </h1>
 
-</center>
+<p align="center">
+  A tech enthusiast with a passion for open-source technology and programming languages like Python, C, HTML, CSS, JS, PHP, Linux, and more.
+</p>
 
-
-<p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python ,C ,HTML , CSS , JS , PHP ,linux , opensource , privacy ,Java   ETC.</p>
-
-
-##
-
-
-
+---
 
 ## 🚀 About Me
 
-- 👨‍💻 My Github is available at [Github](https://github.com/samirgaire10)
-- 👨‍💻 My Portfolio is available at [Portfolio](https://samirgaire10.github.io/Portfolio/)
-- 👨‍💻 My projects  Library are available at [Library](https://samirgaire10.github.io/Library/)
-- 👨‍💻 My Highschool projects are available at [HighSchool projects](https://samirgaire10.github.io/High-School-Web-Projects/)
-- 👨‍💻 My Kamata projects are available at [ 日本工学院専門学校蒲田 projects](https://samirgaire10.github.io/kamata/)
-- 👨‍💻 My Linux projects are available at [ Linux projects](https://samirgaire10.github.io/linux/)
+- 👨‍💻 My GitHub: [GitHub](https://github.com/samirgaire10)
+- 👨‍💻 My Portfolio: [Portfolio](https://samirgaire10.github.io/Portfolio/)
+- 👨‍💻 My Projects Library: [Library](https://samirgaire10.github.io/Library/)
+- 👨‍💻 My High School Projects: [High School Projects](https://samirgaire10.github.io/High-School-Web-Projects/)
+- 👨‍💻 My Kamata Projects: [日本工学院専門学校蒲田 Projects](https://samirgaire10.github.io/kamata/)
+- 👨‍💻 My Linux Projects: [Linux Projects](https://samirgaire10.github.io/linux/)
 
+---
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samirgaire10.github.io/Portfolio/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samirgaire10_)
+<p align="center">
+  <a href="https://samirgaire10.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://twitter.com/samirgaire10_">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.pling.com/u/samirgaire10/products">
+    <img src="https://www.pling.com/stores/media/store_pling/pling-logo.png" width="100" alt="Pling">
+  </a>
+</p>
 
-[![Pling](https://www.pling.com/stores/media/store_pling/pling-logo.png)](https://www.pling.com/u/samirgaire10/products)
+---
 
+## 💻 Other Tools
 
+### AI
 
+- Ollama UI: [GitHub](https://github.com/samirgaire10/ollama-ui.git)
 
+### For Plasma 6
 
-##  Other Tools
+- Chat GPT: [GitHub](https://github.com/samirgaire10/com.samirgaire10.chatgpt-plasma6.git)
+- Twitter: [GitHub](https://github.com/samirgaire10/com.samirgaire10.Twitter-plasma6.git)
+- Brave Search: [GitHub](https://github.com/samirgaire10/com.samirgaire10.Brave-plasma6.git)
+- Google Gemini: [GitHub](https://github.com/samirgaire10/com.samirgaire10.google_gemini-plasma6.git)
+- Deepl Translator: [GitHub](https://github.com/samirgaire10/com.samirgaire10.Deepl-plasma6.git)
+- Ollama GPT: [GitHub](https://github.com/samirgaire10/com.samirgaire10.Ollama-plasma6.git)
+- Perplexity AI: [GitHub](https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git)
+- Blackbox AI: [GitHub](https://github.com/samirgaire10/blackbox.AI.git)
 
-## AI
+### For Plasma 5
 
-- Ollama UI [Github](https://github.com/samirgaire10/ollama-ui.git)
+- Google Gemini: [GitHub](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
+- Chat GPT: [GitHub](https://github.com/dark-eye/com.darkeye.chatGPT)
+- Perplexity: [GitHub](https://github.com/samirgaire10/com.samirgaire10.perplexity)
+- Google: [GitHub](https://github.com/samirgaire10/com.samirgaire10.google)
+- Brave: [GitHub](https://github.com/samirgaire10/com.samirgaire10.brave)
+- Deepl: [GitHub](https://github.com/samirgaire10/com.samirgaire10.Deepl)
+- Twitter: [GitHub](https://github.com/samirgaire10/com.samirgaire10.twitter.git)
 
-## For plasma 6
+---
 
-- Chat Gpt [Github](https://github.com/samirgaire10/com.samirgaire10.chatgpt-plasma6.git)
-- Twitter [Github](https://github.com/samirgaire10/com.samirgaire10.Twitter-plasma6.git)
-- Brave search [Github](https://github.com/samirgaire10/com.samirgaire10.Brave-plasma6.git)
-- Google Gemini [Github](https://github.com/samirgaire10/com.samirgaire10.google_gemini-plasma6.git)
-- Deepl Translater [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl-plasma6.git)
-- Ollama Gpt [Github](https://github.com/samirgaire10/com.samirgaire10.Ollama-plasma6.git)
-- perplexityAi [Github](https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git)
-- Blackbox AI  [Github](https://github.com/samirgaire10/blackbox.AI.git)
+## 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/samirgaire10">
+    <img src="https://github-readme-stats.vercel.app/api?username=samirgaire10&show_icons=true&theme=tokyonight" alt="Samir's GitHub Stats">
+  </a>
+  <br>
+  <a href="https://github.com/samirgaire10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirgaire10&show_icons=true&theme=tokyonight&layout=pie" alt="Top Languages">
+  </a>
+</p>
 
+---
 
-## For plasma 5
+## 🔗 Languages and Tools
 
-- Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
-- Chat Gpt  [Github](https://github.com/dark-eye/com.darkeye.chatGPT)
-- perplexity  [Github](https://github.com/samirgaire10/com.samirgaire10.perplexity)
-- Google  [Github](https://github.com/samirgaire10/com.samirgaire10.google)
-- Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
-- Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
-- twitter  [Github](https://github.com/samirgaire10/com.samirgaire10.twitter.git)
-
-
-
-
-##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10&show_icons=true&theme=tokyonight)](https://github.com/samirgaire10)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirgaire10&show_icons=true&theme=tokyonight&layout=pie)](https://github.com/samirgaire10)
-
-
-
-
-<h3 align="left">🔗 Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
-
-
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a> 
+</p>
